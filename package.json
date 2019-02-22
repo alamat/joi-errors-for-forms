@@ -1,5 +1,5 @@
 {
-  "name": "joi-errors-for-forms",
+  "name": "@alamat/joi-errors-for-forms",
   "version": "0.2.7",
   "description": "Convert Joi errors to form UI or Mongoose schemas, optionally changing the message text.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eddyystop/joi-errors-for-forms.git"
+    "url": "git+https://github.com/alamat/joi-errors-for-forms.git"
   },
   "keywords": [
     "joi",
@@ -21,9 +21,9 @@
   "author": "John Szwaronek <johnsz9999@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eddyystop/joi-errors-for-forms/issues"
+    "url": "https://github.com/alamat/joi-errors-for-forms/issues"
   },
-  "homepage": "https://github.com/eddyystop/joi-errors-for-forms#readme",
+  "homepage": "https://github.com/alamat/joi-errors-for-forms#readme",
   "engines": {
     "node": ">4.2.4"
   }
